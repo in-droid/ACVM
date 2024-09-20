@@ -25,14 +25,16 @@ Both methods have their strengths and are widely used in various applications of
 
 
 ## Long-term tracking
-file:///home/ivan/FRI/2023-2024/sem2/ACVM/assets/long_term_compressed.mp4
-
+https://github.com/user-attachments/assets/195179ab-028f-435f-974a-1aad4edf6fc5
 
 ##
 
 ## References
 [^1]: [Lucas-Kanade Method](https://www.researchgate.net/publication/215458777_An_Iterative_Image_Registration_Technique_with_an_Application_to_Stereo_Vision_IJCAI)
 [^2]: [Horn-Schunck Method](https://www.sciencedirect.com/science/article/abs/pii/0004370281900242)
+
+
+
 
 
 
