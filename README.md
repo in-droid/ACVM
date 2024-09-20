@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/5259fb0e-d199-404b-9e0d-0fb228c420b4
 
 
 ## Long-term tracking
-Long-term tracking involves monitoring objects over extended timeframes, even when they are briefly out of the camera's sight. A widely used method for long-term tracking is SiamFC (Siam Fully Convolutional), which utilizes a siamese network to assess the similarity between the target object and potential regions in later frames. To manage the reappearance of objects, re-detection techniques are implemented, allowing the tracker to maintain precise tracking over long periods.
+Long-term tracking involves monitoring objects over extended timeframes, even when they are briefly out of the camera's sight. A widely used method for long-term tracking is SiamFC[^6] (Siam Fully Convolutional), which utilizes a siamese network to assess the similarity between the target object and potential regions in later frames. To manage the reappearance of objects, re-detection techniques are implemented, allowing the tracker to maintain precise tracking over long periods.
 
 
 https://github.com/user-attachments/assets/d5f5208f-55b1-4e28-a37f-a1e022fd15b4
@@ -50,6 +50,7 @@ https://github.com/user-attachments/assets/d5f5208f-55b1-4e28-a37f-a1e022fd15b4
 [^3]: [Mean-Shift tracking](https://comaniciu.net/Papers/KernelTracking.pdf)
 [^4]: [MOSSEtracker](https://www.researchgate.net/publication/221362729_Visual_object_tracking_using_adaptive_correlation_filters)
 [^5]: [Particle filter tracker](https://vision.ee.ethz.ch/publications/get_abstract.cgi?articles=247&mode=&lang=en)
+[^6]: [SiamFC](https://arxiv.org/abs/1606.09549)
 
 
 
