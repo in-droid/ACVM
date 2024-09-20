@@ -1,5 +1,4 @@
-# ACVM
-
+# Advanced Computer Vision Methods 
 
 ## Optical Flow
 
