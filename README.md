@@ -17,11 +17,9 @@ Both methods have their strengths and are widely used in various applications of
 ### Example of Horn-Schunck method
 
 
-[https://github.com/user-attachments/assets/34929b2c-c52d-4303-bfd1-e58d521ae0b3](https://github.com/user-attachments/assets/740f251d-2058-4e23-9965-55852efbd0c3)
-
-
 
 ## Mean-shift tracking
+https://github.com/user-attachments/assets/05171b02-ef6d-4d84-8cac-17c65fc7f7e6
 
 
 ## Long-term tracking
@@ -32,6 +30,9 @@ https://github.com/user-attachments/assets/195179ab-028f-435f-974a-1aad4edf6fc5
 ## References
 [^1]: [Lucas-Kanade Method](https://www.researchgate.net/publication/215458777_An_Iterative_Image_Registration_Technique_with_an_Application_to_Stereo_Vision_IJCAI)
 [^2]: [Horn-Schunck Method](https://www.sciencedirect.com/science/article/abs/pii/0004370281900242)
+
+
+
 
 
 
