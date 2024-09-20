@@ -15,11 +15,14 @@ The **Horn-Schunck** method is another differential technique for estimating opt
 Both methods have their strengths and are widely used in various applications of optical flow estimation.
 
 ### Example of Horn-Schunck method
-
-
-
-## Mean-shift tracking
 https://github.com/user-attachments/assets/05171b02-ef6d-4d84-8cac-17c65fc7f7e6
+
+
+
+## Mean-shift tracking[^3]
+The Mean Shift algorithm works by iteratively shifting a window (or kernel) towards the region of highest density in the feature space, often represented by color histograms. This process is repeated until convergence, meaning the window stabilizes over the target object.
+
+https://github.com/user-attachments/assets/aee17fc8-23b8-41e1-87d6-7ed134b752af
 
 
 ## Long-term tracking
@@ -30,6 +33,9 @@ https://github.com/user-attachments/assets/195179ab-028f-435f-974a-1aad4edf6fc5
 ## References
 [^1]: [Lucas-Kanade Method](https://www.researchgate.net/publication/215458777_An_Iterative_Image_Registration_Technique_with_an_Application_to_Stereo_Vision_IJCAI)
 [^2]: [Horn-Schunck Method](https://www.sciencedirect.com/science/article/abs/pii/0004370281900242)
+[^3]: [Mean-Shift tracking](https://comaniciu.net/Papers/KernelTracking.pdf)
+
+
 
 
 
