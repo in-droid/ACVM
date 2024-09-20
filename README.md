@@ -44,9 +44,6 @@ https://github.com/user-attachments/assets/d5f5208f-55b1-4e28-a37f-a1e022fd15b4
 
 
 
-
-
-
 ## References
 [^1]: [Lucas-Kanade Method](https://www.researchgate.net/publication/215458777_An_Iterative_Image_Registration_Technique_with_an_Application_to_Stereo_Vision_IJCAI)
 [^2]: [Horn-Schunck Method](https://www.sciencedirect.com/science/article/abs/pii/0004370281900242)
@@ -63,14 +60,6 @@ https://github.com/user-attachments/assets/d5f5208f-55b1-4e28-a37f-a1e022fd15b4
 
 
 
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/4a3b691f-acd0-4d9b-9454-b92031193f41
 
 
 
